@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise1\\assets\\scripts\\game\\object\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\object\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise1\\assets\\scripts\\game\\object\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\object\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise1\\assets\\scripts\\game\\object\\enemy\\normalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\object\\enemy\\normalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise1\\assets\\scripts\\game\\object\\enemy\\towerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\object\\enemy\\towerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise1\\assets\\scripts\\game\\object\\reward\\rewordbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\object\\reward\\rewordbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise1\\assets\\scripts\\panel\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise1\\assets\\scripts\\panel\\defeatpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\defeatpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise1\\assets\\scripts\\game\\object\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\object\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise1\\assets\\scripts\\panel\\victorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0713810F-D55F-7357-465D-3D7D1EF63A13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\victorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Weapon\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Object\\Weapon\\Bullet.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Weapon\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Object\\Weapon\\Bullet.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:18:37.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Object\\Player\\Player.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Object\\Player\\Player.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAtwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:10:33.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NormalEnemy.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Enemy\\NormalEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Object\\Enemy\\NormalEnemy.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Enemy\\NormalEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Object\\Enemy\\NormalEnemy.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAtwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:18:40.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TowerEnemy.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Enemy\\TowerEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Object\\Enemy\\TowerEnemy.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Enemy\\TowerEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Object\\Enemy\\TowerEnemy.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:02:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RewordBox.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Reward\\RewordBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Object\\Reward\\RewordBox.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\Reward\\RewordBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Object\\Reward\\RewordBox.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:38:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\BeginPanel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:15:06.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DefeatPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Panel\\DefeatPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\DefeatPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Panel\\DefeatPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\DefeatPanel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:07:13.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VictoryPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Panel\\VictoryPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\VictoryPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Panel\\VictoryPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\VictoryPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:55:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EndPoint.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\EndPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Object\\EndPoint.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise1\\Assets\\Scripts\\Game\\Object\\EndPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Object\\EndPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:48:04.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
